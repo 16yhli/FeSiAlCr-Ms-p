@@ -1,0 +1,13 @@
+# Core dependencies for FeSiAlCrMs
+# Minimum versions verified against the APIs used in this repository.
+# To pin the exact versions of your own environment, run:
+#     pip freeze > requirements.txt
+
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+scikit-learn>=1.0
+matplotlib>=3.4
+optuna>=3.0
+joblib>=1.1
+openpyxl>=3.0
